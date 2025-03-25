@@ -1,0 +1,56 @@
+[
+  {
+      "package": "qiverse.azure",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.azure"
+  },
+  {
+      "package": "qiverse.data",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.data"
+  },
+  {
+      "package": "qiverse.powerbi",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.powerbi"
+  },
+  {
+      "package": "qiverse.qimatrix",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.qimatrix"
+  },
+  {
+      "package": "qiverse.qimisc",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.qimisc"
+  },
+  {
+      "package": "qiverse.qipatterns",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.qipatterns"
+  },
+  {
+      "package": "qiverse.qiplotly",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.qiplotly"
+  },
+  {
+      "package": "qiverse.sharepoint",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.sharepoint"
+  },
+  {
+      "package": "qiverse.snowflake",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+      "branch": "main",
+      "subdir": "qiverse.snowflake"
+  }
+]
