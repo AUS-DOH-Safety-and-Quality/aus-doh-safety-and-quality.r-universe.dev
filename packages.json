@@ -52,5 +52,10 @@
       "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
       "branch": "main",
       "subdir": "qiverse.snowflake"
+  },
+  {
+      "package": "controlcharts",
+      "url": "https://github.com/AUS-DOH-Safety-and-Quality/controlcharts",
+      "branch": "main"
   }
 ]
